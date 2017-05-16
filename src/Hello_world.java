@@ -8,8 +8,18 @@ public class Hello_world {
         System.out.println("It's a beautiful day! =D");
         // Fix a lot of bullshit!
 
-        // Didn't I made some changes here? Where are them?
+        // What happens if I make some changes to master and want to keep both of the changes here and on the
+        // new local branch (I think that remotes branch are just for checking from github web...)
 
+        // Making change to commit for the new local branch
+        System.out.println("No spell mistakes.");
 
+        // This should track the changes for the new branch and then merge to master branch to commit all the changes
+        // keeping master of backup to restore my code to that point if needed.
+
+        // Now I want to merge this with master branch. It should keep both changes.
+
+        // I think I just figured it out =D
+        // Need another commit?
     }
 }
