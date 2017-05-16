@@ -20,5 +20,6 @@ public class Hello_world {
         // Now I want to merge this with master branch. It should keep both changes.
 
         // I think I just figured it out =D
+        // Need another commit?
     }
 }
