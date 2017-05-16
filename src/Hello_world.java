@@ -8,5 +8,7 @@ public class Hello_world {
         System.out.println("It's a beautiful day! =D");
         // Let's make some changes on the new branch just for fun and testing
         System.out.println("This is an edit for the new branch.");
+        // Making some more changes
+        System.out.println("GIVE ME MOAR!");
     }
 }
