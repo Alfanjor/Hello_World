@@ -1,0 +1,15 @@
+Index: src/Hello_world.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Hello_world.java	(date 1494928141000)
++++ src/Hello_world.java	(date 1494927935000)
+@@ -12,7 +12,6 @@
+         System.out.println("GIVE ME MOAR!");
+         // I wanna merge to master branch! >.<
+         // What happen?
+-        //Ok just deleted a the other branch, now what happen to master???
+ 
+     }
+ }
