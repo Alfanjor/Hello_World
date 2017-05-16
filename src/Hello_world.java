@@ -12,6 +12,7 @@ public class Hello_world {
         System.out.println("GIVE ME MOAR!");
         // I wanna merge to master branch! >.<
         // What happen?
+        //Ok just deleted a the other branch, now what happen to master???
 
     }
 }
