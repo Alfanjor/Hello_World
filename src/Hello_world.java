@@ -6,6 +6,7 @@ public class Hello_world {
         // TODO Auto-generated method stub
         System.out.println("Hello World!");
         System.out.println("It's a beautiful day! =D");
-        System.out.println("First change to commit.");
+        // Let's make some changes on the new branch just for fun and testing
+        System.out.println("This is an edit for the new branch.");
     }
 }
