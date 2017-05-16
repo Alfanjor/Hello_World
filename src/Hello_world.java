@@ -15,5 +15,7 @@ public class Hello_world {
         // Ok just deleted a the other branch, now what happen to master???
         // Idk what I am doing!! >.<
 
+        // Making some change to master and separate from the Hello-1.0 branch
+
     }
 }
