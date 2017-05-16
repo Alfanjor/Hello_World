@@ -6,5 +6,6 @@ public class Hello_world {
         // TODO Auto-generated method stub
         System.out.println("Hello World!");
         System.out.println("It's a beautiful day! =D");
+        System.out.println("First change to commit.");
     }
 }
