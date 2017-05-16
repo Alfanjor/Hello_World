@@ -8,6 +8,9 @@ public class Hello_world {
         System.out.println("It's a beautiful day! =D");
         // Fix a lot of bullshit!
 
+        // Making change to commit for the new local branch
+        System.out.println("No spell mistakes.");
+
 
     }
 }
