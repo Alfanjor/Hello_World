@@ -8,6 +8,9 @@ public class Hello_world {
         System.out.println("It's a beautiful day! =D");
         // Fix a lot of bullshit!
 
+        // What happens if I make some changes to master and want to keep both of the changes here and on the
+        // new local branch (I think that remotes branch are just for checking from github web...)
+
         // Making change to commit for the new local branch
         System.out.println("No spell mistakes.");
 
