@@ -10,5 +10,8 @@ public class Hello_world {
         System.out.println("This is an edit for the new branch.");
         // Making some more changes
         System.out.println("GIVE ME MOAR!");
+        // I wanna merge to master branch! >.<
+        // What happen?
+
     }
 }
