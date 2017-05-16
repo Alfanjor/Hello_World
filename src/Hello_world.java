@@ -17,5 +17,6 @@ public class Hello_world {
         // This should track the changes for the new branch and then merge to master branch to commit all the changes
         // keeping master of backup to restore my code to that point if needed.
 
+        // Now I want to merge this with master branch. It should keep both changes.
     }
 }
